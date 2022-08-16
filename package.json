@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarshaar/learn-nodejs.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "omar shaar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarshaar/learn-nodejs/issues"
+  },
+  "homepage": "https://github.com/omarshaar/learn-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "underscore": "^1.13.4"
+  }
+}
